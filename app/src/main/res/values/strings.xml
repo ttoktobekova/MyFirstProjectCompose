@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyFirstProjectCompose</string>
+    <string name="geek_family">Geek Family</string>
+    <string name="geek">Geek</string>
+</resources>
